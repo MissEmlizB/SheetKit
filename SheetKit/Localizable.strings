@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  SheetKit
+
+  Created by Emily Blackwell on 09/04/2020.
+  Copyright © 2020 Emily Blackwell. All rights reserved.
+*/
+
+// 'Default animation name'
+"def_aname" = "Animation";
+
+// No Spritesheet error
+"t_nserr" = "No spritesheet in project!";
+"i_nserr" = "You need to have a spritesheet opened to save this project.";
